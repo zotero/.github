@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "I’m a Zotero user"
+    url: https://www.zotero.org/support/getting_help
+    about: Zotero does not use GitHub Issues for bug reports or feature requests. Please post to the Zotero Forums. Zotero developers will create issues as necessary in the relevant repositories.
+  - name: "I’m a Zotero plugin developer"
+    url: https://groups.google.com/g/zotero-dev
+    about: Development questions involving code, APIs, or other technical topics can be posted to the zotero-dev mailing list.
